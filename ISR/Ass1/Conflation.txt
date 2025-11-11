@@ -1,0 +1,2 @@
+Information retrieval is the process of obtaining information from large collections of text.
+It involves searching, indexing, and ranking documents based on user queries.
